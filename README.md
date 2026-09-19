@@ -169,4 +169,4 @@ Some of the areas I like exploring:
 ### ⚡ Build • Experiment • Learn • Share
 
 </div>
-## I will be at school from 9:00am to 5:00am and may only be free from 7:00 to 10:00
+I will be at school from **9:00am** to **5:00pm** and may only be free from **7:00pm** to **10:00pm**
