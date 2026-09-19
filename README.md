@@ -5,7 +5,7 @@
 ### Student • Developer • Electronics & Embedded Systems Enthusiast
 
 <a href="https://github.com/AlenKrishna2012">
-  <img src="https://img.shields.io/github/followers/AlenKrishna2012?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/AlenKrishna2012?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/AlenKrishna2012?tab=repositories">
   <img src="https://img.shields.io/github/stars/AlenKrishna2012?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
