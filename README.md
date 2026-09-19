@@ -5,9 +5,6 @@
 ### Student • Developer • Electronics & Embedded Systems Enthusiast
 
 <a href="https://github.com/AlenKrishna2012">
-  <img src="https://komarev.com/ghpvc/?username=AlenKrishna2012&style=for-the-badge&color=blue" alt="Profile views" />
-</a>
-<a href="https://github.com/AlenKrishna2012?tab=followers">
   <img src="https://img.shields.io/github/followers/AlenKrishna2012?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
 <a href="https://github.com/AlenKrishna2012?tab=repositories">
@@ -56,7 +53,7 @@ My projects sit at the intersection of **software, electronics, embedded systems
 - GitHub Actions
 - Termux
 - ArduinoDroid
-- Android(No PC)
+- Android (No PC)
 - Supabase
 - Netlify
 
@@ -149,13 +146,19 @@ Some of the areas I like exploring:
 
 ---
 
-## 📫 Find Me on GitHub
+## 🌐 Community & Content
 
 <div align="center">
 
-<a href="https://github.com/AlenKrishna2012">
-  <img src="https://img.shields.io/badge/GitHub-AlenKrishna2012-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<a href="https://www.youtube.com/@Alenkrishna0">
+  <img src="https://img.shields.io/badge/YouTube-Alenkrishna0-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
+&nbsp;
+<a href="https://discord.gg/eDj8QuKdJa">
+  <img src="https://img.shields.io/badge/Discord-Code%20%26%20Help-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<p><b>Join the Discord server for code, projects, troubleshooting and help.</b></p>
 
 </div>
 
