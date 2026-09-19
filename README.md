@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a student who enjoys **building, experimenting, and learning by doing**.
+I'm a student of 9th grade who enjoys **building, experimenting, and learning by doing**.
 
 My projects sit at the intersection of **software, electronics, embedded systems, and the web**. I especially enjoy working with microcontrollers, Arduino-compatible boards, GitHub, and open-source projects.
 
@@ -35,11 +35,9 @@ My projects sit at the intersection of **software, electronics, embedded systems
 <td valign="top" width="33%">
 
 ### 💻 Software
-- C++
-- Arduino
+- C++ / Arduino
 - Python
 - HTML
-- JavaScript
 - Git & GitHub
 
 </td>
@@ -50,9 +48,6 @@ My projects sit at the intersection of **software, electronics, embedded systems
 - ESP32
 - ESP32-C3
 - ESP8266
-- I²C
-- SPI
-- UART
 
 </td>
 <td valign="top" width="33%">
@@ -61,9 +56,9 @@ My projects sit at the intersection of **software, electronics, embedded systems
 - GitHub Actions
 - Termux
 - ArduinoDroid
-- VS Code
-- Linux / Android
+- Android(No PC)
 - Supabase
+- Netlify
 
 </td>
 </tr>
