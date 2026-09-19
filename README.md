@@ -177,4 +177,3 @@ Some of the areas I like exploring:
 
 </div>
 
-## hi
