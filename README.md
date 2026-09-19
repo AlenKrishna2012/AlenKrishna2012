@@ -68,11 +68,16 @@ An Arduino library for **24Cxx and 24CMxx I²C EEPROM chips**.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlenKrishna2012&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlenKrishna2012&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=AlenKrishna2012&hide_border=true&theme=github-dark-blue" height="170" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenKrishna2012&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenKrishna2012&layout=donut&langs_count=6&hide_border=true&theme=github_dark" height="170" />
+</p>
 
 ---
 
