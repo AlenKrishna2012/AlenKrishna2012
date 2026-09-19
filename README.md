@@ -132,7 +132,7 @@ Some of the areas I like exploring:
 
 ## 🌱 Currently Learning
 
-**Embedded Systems** · **GitHub & Open Source** · **C++** · **Web Development** · **Electronics** · **Software Engineering**
+**Embedded Systems** · **GitHub & Open Source** · **C++** · **Web Development** · **Electronics** · **Studying Small Software  Engineering**
 
 ---
 
