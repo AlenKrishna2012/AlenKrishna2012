@@ -146,6 +146,13 @@ Some of the areas I like exploring:
 
 ---
 
+## 🕒 Availability
+
+🏫 **School:** 9:00 AM – 5:00 PM  
+💻 **Usually available:** 7:00 PM – 10:00 PM
+
+---
+
 ## 🌐 Community & Content
 
 <div align="center">
@@ -169,4 +176,3 @@ Some of the areas I like exploring:
 ### ⚡ Build • Experiment • Learn • Share
 
 </div>
-I will be at school from **9:00am** to **5:00pm** and may only be free from **7:00pm** to **10:00pm**
