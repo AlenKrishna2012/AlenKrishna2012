@@ -146,7 +146,7 @@ Some of the areas I like exploring:
 
 ---
 
-## 🕒 Availability
+## 🕒 Availability(Indian Time)
 
 🏫 **School:** 9:00 AM – 5:00 PM  
 💻 **Usually available:** 7:00 PM – 10:00 PM
