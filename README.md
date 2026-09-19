@@ -9,22 +9,19 @@ I enjoy building things with **code, microcontrollers, electronics, and the web*
 ## 🛠️ Technologies & Tools
 
 **Languages**
-- C / C++
+- C++ / Arduino
 - Python
-- JavaScript
-- HTML / CSS
+- HTML
 
 **Hardware**
 - Arduino
 - ESP32 / ESP32-C3
 - ESP8266
-- I²C / SPI / UART
 
 **Tools**
-- Git
 - GitHub
 - GitHub Actions
-- Arduino IDE
+- ArduinoDroid
 - Termux
 
 ---
@@ -35,7 +32,7 @@ I enjoy building things with **code, microcontrollers, electronics, and the web*
 - 📡 ESP32 / ESP8266 projects
 - 🌐 Web applications
 - 🐍 Python utilities
-- 📚 Open-source libraries
+- 📚 Open-source Arduino library
 - ⚙️ Electronics experiments
 
 ---
