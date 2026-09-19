@@ -176,3 +176,8 @@ Some of the areas I like exploring:
 ### ⚡ Build • Experiment • Learn • Share
 
 </div>
+
+## 🕒 Availability
+
+🏫 **School:** 9:00 AM – 5:00 PM  
+💬 **Discord / Projects:** Usually 7:00 PM – 10:00 PM
