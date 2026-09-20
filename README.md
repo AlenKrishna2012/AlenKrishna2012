@@ -19,7 +19,7 @@
 
 I'm a student of 9th grade who enjoys **building, experimenting, and learning by doing**.
 
-My projects sit at the intersection of **software, electronics, embedded systems, and the web**. I especially enjoy working with microcontrollers, Arduino-compatible boards, GitHub, and open-source projects.
+My projects sit at the intersection of **software, electronics, embedded systems, and the web**. I especially enjoy working with microcontrollers, Arduino-compatible boards, GitHub, and open-source projects. 
 
 > **Build something → test it → break it → understand it → improve it.**
 
